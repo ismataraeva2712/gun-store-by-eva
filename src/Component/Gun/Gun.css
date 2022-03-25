@@ -1,0 +1,18 @@
+.gun img{
+    width: 150px;
+    margin-left: 80px;
+}
+.gun{
+    border: 1px solid lightseagreen;
+    padding: 15px;
+    border-radius: 15px;
+   
+}
+.btn{
+    width: 50%;
+   height: 40px;
+   background-color: rgb(26, 40, 41);
+   color: white;
+   border: none;
+   border-radius: 15px;
+}
